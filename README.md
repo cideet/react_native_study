@@ -3,7 +3,7 @@
 React Native贯穿全栈开发App
 http://coding.imooc.com/class/56.html
 
-teacherGithub   
+teacher Github   
 https://github.com/vczero/toilet
 
 
