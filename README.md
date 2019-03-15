@@ -1,5 +1,18 @@
 # react_native_study
 
+新版React Native+Redux打造高质量上线App
+Redux+FlatList等高级组件+自定义组件+原生模块调用+RN混合开发+全面屏适配与兼容
+https://coding.imooc.com/class/304.html
+
+npm install -g react-native-cli
+react-native init firstapp
+react-native run-andriod
+
+
+
+
+###############################################################################
+
 React Native贯穿全栈开发App
 http://coding.imooc.com/class/56.html
 
