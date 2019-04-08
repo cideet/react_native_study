@@ -8,6 +8,8 @@ npm install -g react-native-cli
 react-native init firstapp
 react-native run-andriod
 
+Windows下的React-Native开发调试环境安装
+https://blog.csdn.net/KascLiyuan/article/details/78813832
 
 
 
